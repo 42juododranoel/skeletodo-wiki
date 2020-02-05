@@ -1,5 +1,3 @@
-# Вики «Тудуиссимо»
+# Skeletodo Wiki
 
-Компания ООО «ИнфоСтартапСистемс» разрабатывает уникальный продукт — систему учёта задач и достижения жизненных целей. Данный продукт предназначен для повышения личной эффективности пользователя, платная версия также помогает развивать личный бренд.
-
-Бэкенд: [todoissimo-backend](https://github.com/vsevolod-skripnik/todoissimo-backend)
+Backend: [skeletodo-backend](https://github.com/vsevolod-skripnik/skeletodo-backend)
