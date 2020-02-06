@@ -1,6 +1,6 @@
 ---
 name: Задача
-about: Сделать что-то
+about: Сделать что-то.
 title: ''
 labels: ''
 assignees: vsevolod-skripnik
