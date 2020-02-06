@@ -1,0 +1,18 @@
+---
+name: Задача
+about: Сделать что-то.
+title: ''
+labels: ''
+assignees: vsevolod-skripnik
+
+---
+
+# Что сделать
+
+
+
+# Зачем сделать
+
+
+
+# Кто попросил
