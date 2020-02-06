@@ -1,6 +1,6 @@
 ---
 name: Ошибка
-about: Что-то не работает
+about: Что-то не работает.
 title: ''
 labels: bug
 assignees: vsevolod-skripnik
