@@ -35,4 +35,5 @@
 ## Репозитории
 
 - Бэкенд: [skeletodo-backend](https://github.com/vsevolod-skripnik/skeletodo-backend)
+- Фронтенд: [skeletodo-frontend](https://github.com/vsevolod-skripnik/skeletodo-frontend)
 
